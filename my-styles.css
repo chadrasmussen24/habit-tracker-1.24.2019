@@ -1,9 +1,12 @@
 body {
 	text-align: center;
 	margin-top: 50px;
+	color : Black;
+
 }
 
 button,
 button:focus {
 	touch-action: manipulation;
+	color: blue
 }
